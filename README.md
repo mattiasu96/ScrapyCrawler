@@ -1,0 +1,2 @@
+# ScrapyCrawler
+Simple crawler
